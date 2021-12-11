@@ -4,6 +4,7 @@
     min-width: 930px;
     margin: 0 auto;
     align-items: center;
+    justify-content: center;
 }
 
 .product-cards-container {
